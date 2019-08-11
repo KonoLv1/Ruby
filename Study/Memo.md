@@ -1,14 +1,11 @@
-# C言語の基本
+# Rubyの基本
 
-## 標準入力
+## 力
 
-* **数値を入力する**
+* **文字を出力する**
 
-```c
-#include<stdio.h>
+```ruby
 
-int main(void){
-    int x;              
-    scanf("%d",&x);
-}
+puts "Hello World"
+
 ```
